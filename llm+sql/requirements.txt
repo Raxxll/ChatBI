@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+langchain-community==0.2.2
+langchain-core==0.2.4
+mysql-connector-python==9.0.0
